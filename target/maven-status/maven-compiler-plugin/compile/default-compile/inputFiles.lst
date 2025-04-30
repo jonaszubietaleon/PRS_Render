@@ -1,0 +1,10 @@
+/workspaces/PRS_Render/src/main/java/pe/edu/vallegrande/vg_ms_casas/VgMsCasasApplication.java
+/workspaces/PRS_Render/src/main/java/pe/edu/vallegrande/vg_ms_casas/config/CorsConfig.java
+/workspaces/PRS_Render/src/main/java/pe/edu/vallegrande/vg_ms_casas/controller/ConsumptionController.java
+/workspaces/PRS_Render/src/main/java/pe/edu/vallegrande/vg_ms_casas/controller/HomeController.java
+/workspaces/PRS_Render/src/main/java/pe/edu/vallegrande/vg_ms_casas/model/Consumption.java
+/workspaces/PRS_Render/src/main/java/pe/edu/vallegrande/vg_ms_casas/model/Home.java
+/workspaces/PRS_Render/src/main/java/pe/edu/vallegrande/vg_ms_casas/repository/ConsumptionRepository.java
+/workspaces/PRS_Render/src/main/java/pe/edu/vallegrande/vg_ms_casas/repository/HomeRepository.java
+/workspaces/PRS_Render/src/main/java/pe/edu/vallegrande/vg_ms_casas/service/ConsumptionService.java
+/workspaces/PRS_Render/src/main/java/pe/edu/vallegrande/vg_ms_casas/service/HomeService.java
