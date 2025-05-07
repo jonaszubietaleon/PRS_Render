@@ -2,7 +2,7 @@ name: SonarQube
 on:
   push:
     branches:
-      - consumo-interno
+      - consumo
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
